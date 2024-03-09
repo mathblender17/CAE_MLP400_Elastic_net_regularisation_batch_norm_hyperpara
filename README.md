@@ -3,7 +3,7 @@
 
 ### **Elastic Net Regularisation**
 - Elastic Net regularization is a combination of L1 regularization (Lasso) and L2 regularization (Ridge) techniques. It is designed to address some of the limitations of each individual regularization method. Both L1 and L2 regularization involve adding penalty terms to the loss function to prevent overfitting and encourage the model to generalize well to new, unseen data.
-- ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b3e3fa4-d33a-4a33-80e3-bc4977b1cbbc/71916519-b137-4e3b-8c4b-0df9d7e92465/Untitled.png)
+
 
 ### **Batch Normalisation** 
 - smooths the loss function
